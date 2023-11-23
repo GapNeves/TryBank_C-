@@ -97,6 +97,7 @@ public class TrybankLib
         }
 
         Bank[loggedUser, 3] = value;
+        //teste
     }
 
     // 6. Construa a funcionalidade de sacar dinheiro
