@@ -24,6 +24,7 @@ public class TrybankLib
     // 1. Construa a funcionalidade de cadastrar novas contas
     public void RegisterAccount(int number, int agency, int pass)
     {
+        // Iniciando
         throw new NotImplementedException();
     }
 
@@ -42,7 +43,7 @@ public class TrybankLib
     // 4. Construa a funcionalidade de checar o saldo
     public int CheckBalance()
     {
-        throw new NotImplementedException();   
+        throw new NotImplementedException();
     }
 
     // 5. Construa a funcionalidade de depositar dinheiro
@@ -63,5 +64,5 @@ public class TrybankLib
         throw new NotImplementedException();
     }
 
-   
+
 }
